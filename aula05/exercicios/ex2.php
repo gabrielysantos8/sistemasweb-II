@@ -13,5 +13,6 @@
     foreach ($usuarios as $u) {
         echo "Nome: ". $u["nome"] ."<br>";
         echo "Email: ". $u["email"]. "<br>";
+        echo "<br>";
     }
 ?>

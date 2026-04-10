@@ -8,7 +8,7 @@
     $dados["produtos"][] = [
         'nome' => 'Teclado',
         'preco' => 'R$179.00',
-        'quantidade' => '34'
+        'quantidade' => 34
     ];
 
     // converter para JSON
